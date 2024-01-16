@@ -59,7 +59,7 @@
 | emmie | [LethalSanrio](https://thunderstore.io/c/lethal-company/p/emmie/LethalSanrio/) | 1.1.0 |
 | ViViKo | [MoreMaterials](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials/) | 1.3.1 |
 | haigen | [MemeTeamSuits](https://thunderstore.io/c/lethal-company/p/haigen/MemeTeamSuits/) | 1.0.1 |
-| 2018 | [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) | 3.4.2 |
+| 2018 | [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) | 3.4.3 |
 | happyfrosty | [FrostySuits2](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits2/) | 1.0.9 |
 | ViViKo | [MemeSuits](https://thunderstore.io/c/lethal-company/p/ViViKo/MemeSuits/) | 1.1.0 |
 | BrotherPig | [MountainDewMan_Suits](https://thunderstore.io/c/lethal-company/p/BrotherPig/MountainDewMan_Suits/) | 1.0.2 |
@@ -115,3 +115,4 @@
 | ZG | [BetterSpec](https://thunderstore.io/c/lethal-company/p/ZG/BetterSpec/) | 1.1.2 |
 | MoonJuice | [RubberChicken](https://thunderstore.io/c/lethal-company/p/MoonJuice/RubberChicken/) | 1.0.2 |
 | CharlesE2 | [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/) | 1.0.4 |
+| loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 1.2.3 |
