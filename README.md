@@ -37,6 +37,7 @@
 | SlushyRH | [FreeeeeeMoooooons](https://thunderstore.io/c/lethal-company/p/SlushyRH/FreeeeeeMoooooons/) | 1.0.1 |
 | sunnobunno | [LandMineFartReverb](https://thunderstore.io/c/lethal-company/p/sunnobunno/LandMineFartReverb/) | 1.0.3 |
 | TwinDimensionalProductions | [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 1.0.3 |
+| Propain_Gang | [Dracula Flow The Official Saga](https://thunderstore.io/c/lethal-company/p/Propain_Gang/Dracula_Flow_The_Official_Saga/) | 1.0.0 |
 | Verity | [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) | 1.0.5 |
 | happyfrosty | [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/) | 1.1.9 |
 | Owen3H | [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) | 1.4.2 |
@@ -86,6 +87,7 @@
 | Dafini | [Dafis_Mega_Moon_Pack_Emporium](https://thunderstore.io/c/lethal-company/p/Dafini/Dafis_Mega_Moon_Pack_Emporium/) | 1.3.12 |
 | ENZ | [Lock_Doors_Mod](https://thunderstore.io/c/lethal-company/p/ENZ/Lock_Doors_Mod/) | 1.1.0 |
 | matsuura | [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/) | 1.0.2 |
+| ButteryStancakes | [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) | 1.1.1 |
 | darmuh | [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/) | 1.5.0 |
 | FlipMods | [FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) | 1.2.1 |
 | FlipMods | [LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/) | 1.0.1 |
@@ -116,3 +118,4 @@
 | MoonJuice | [RubberChicken](https://thunderstore.io/c/lethal-company/p/MoonJuice/RubberChicken/) | 1.0.2 |
 | CharlesE2 | [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/) | 1.0.4 |
 | loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 1.2.3 |
+| kuba6000 | [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) | 0.0.2 |
