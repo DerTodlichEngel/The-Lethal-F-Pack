@@ -60,7 +60,7 @@
 | emmie | [LethalSanrio](https://thunderstore.io/c/lethal-company/p/emmie/LethalSanrio/) | 1.1.0 |
 | ViViKo | [MoreMaterials](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials/) | 1.3.1 |
 | haigen | [MemeTeamSuits](https://thunderstore.io/c/lethal-company/p/haigen/MemeTeamSuits/) | 1.0.1 |
-| 2018 | [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) | 3.4.3 |
+| 2018 | [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) | 3.4.4 |
 | happyfrosty | [FrostySuits2](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits2/) | 1.0.9 |
 | ViViKo | [MemeSuits](https://thunderstore.io/c/lethal-company/p/ViViKo/MemeSuits/) | 1.1.0 |
 | BrotherPig | [MountainDewMan_Suits](https://thunderstore.io/c/lethal-company/p/BrotherPig/MountainDewMan_Suits/) | 1.0.2 |
@@ -69,7 +69,7 @@
 | Ceelery | [Kast](https://thunderstore.io/c/lethal-company/p/Ceelery/Kast/) | 1.0.3 |
 | scoopy | [Scoopys_Variety_Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/) | 0.6.5 |
 | IntegrityChaos | [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/) | 1.1.10 |
-| sfDesat | [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/) | 0.4.2 |
+| sfDesat | [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/) | 1.0.1 |
 | Stoneman | [LethalProgression](https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/) | 1.3.2 |
 | Sligili | [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/) | 1.5.6 |
 | BatTeam | [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) | 1.0.6 |
@@ -119,3 +119,4 @@
 | CharlesE2 | [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/) | 1.0.4 |
 | loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 1.2.3 |
 | kuba6000 | [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) | 0.0.2 |
+| sfDesat | [ExpansionAssets](https://thunderstore.io/c/lethal-company/p/sfDesat/ExpansionAssets/) | 1.0.0 |
