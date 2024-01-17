@@ -1,3 +1,7 @@
+### v1.2.2
+```
+- Removed Permanent Ladders
+```
 ### v1.1.2
 ```
 - Updated LethalLevelLoader
