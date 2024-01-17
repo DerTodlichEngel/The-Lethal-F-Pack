@@ -6,7 +6,8 @@
 > I will also be making a personal pack for a semi balanced yet casual solo run experience for the horror fans out there who maybe don't always have a crew with them.
 
 > [!IMPORTANT]
-> [Known Issue!](https://github.com/DerTodlichEngel/The-Lethal-F-Pack/issues/1)
+> [Known Issue!](https://github.com/DerTodlichEngel/The-Lethal-F-Pack/issues/1)  
+> [Known Issue!](https://github.com/DerTodlichEngel/The-Lethal-F-Pack/issues/11)
 
 ## Current Mod-List
 
