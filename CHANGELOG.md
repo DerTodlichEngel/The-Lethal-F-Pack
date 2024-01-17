@@ -1,3 +1,8 @@
+### v1.3.4
+```
+- Updated LethalExpansion
+- Updated MaskedEnemyOverhaul
+```
 ### v1.2.2
 ```
 - Removed Permanent Ladders
