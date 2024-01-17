@@ -99,7 +99,7 @@
 | MagicalFlyingPurpleTreeSquid | [Drive_Suit](https://thunderstore.io/c/lethal-company/p/MagicalFlyingPurpleTreeSquid/Drive_Suit/) | 1.0.3 |
 | Verity | [3rdPerson](https://thunderstore.io/c/lethal-company/p/Verity/3rdPerson/) | 1.1.0 |
 | CTNOriginals | [CrossHair](https://thunderstore.io/c/lethal-company/p/CTNOriginals/CrossHair/) | 1.0.5 |
-| IAmBatby | [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) | 1.0.6 |
+| IAmBatby | [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) | 1.0.7 |
 | MonkeyMan | [Family_Guy_TV_Extended](https://thunderstore.io/c/lethal-company/p/MonkeyMan/Family_Guy_TV_Extended/) | 1.0.0 |
 | boidog | [old_school_youtube_TV_pack](https://thunderstore.io/c/lethal-company/p/boidog/old_school_youtube_TV_pack/) | 1.1.1 |
 | Odyssey | [OdysseySounds](https://thunderstore.io/c/lethal-company/p/Odyssey/OdysseySounds/) | 1.3.2 |
