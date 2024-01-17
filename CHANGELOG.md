@@ -1,3 +1,7 @@
+### v1.1.2
+```
+- Updated LethalLevelLoader
+```
 ### v1.1.1
 ```
 - Updated LethalLib
