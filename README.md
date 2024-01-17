@@ -48,7 +48,6 @@
 | ExioMadeThis | [Ahegao_Suit](https://thunderstore.io/c/lethal-company/p/ExioMadeThis/Ahegao_Suit/) | 1.0.0 |
 | Deli | [Chipi_Chipi_Dropship](https://thunderstore.io/c/lethal-company/p/Deli/Chipi_Chipi_Dropship/) | 2.0.1 |
 | e3s1 | [BetterLadders](https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders/) | 1.4.0 |
-| Silvercore | [Permanent_Ladder](https://thunderstore.io/c/lethal-company/p/Silvercore/Permanent_Ladder/) | 1.0.3 |
 | Chrispacito | [Longnose_Anime_Suits](https://thunderstore.io/c/lethal-company/p/Chrispacito/Longnose_Anime_Suits/) | 1.0.2 |
 | femboytv | [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/) | 1.2.0 |
 | skelobite | [Posters_of_Cats_and_More](https://thunderstore.io/c/lethal-company/p/skelobite/Posters_of_Cats_and_More/) | 1.0.3 |
