@@ -1,6 +1,6 @@
 # Read me
 
-### A mod-pack made for friends, but due to the nature of updates, things breaking, and compatibility issues over time, I decided to make a mod-pack for it so it's easier to update and share around friends while also being able to share with the community some of our favorite mods for a decently balanced time.  
+### A mod-pack made for friends, but due to the nature of updates, things breaking, and compatibility issues over time, I decided to make a mod-pack for it so it's easier to update and share around friends while also being able to share with the community some of our favorite mods for a decently balanced, but fun time.  
 
 > [!NOTE]
 > I will also be making a personal pack for a semi balanced yet casual solo run experience for the horror fans out there who maybe don't always have a crew with them.
@@ -25,12 +25,12 @@
 | EliteMasterEric | [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/) | 2.0.0 |
 | RugbugRedfern | [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) | 4.0.1 |
 | Rune580 | [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) | 0.5.5 |
-| HomelessGinger | [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) | 3.0.0 |
+| HomelessGinger | [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) | 3.1.0 |
 | Drakorle | [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) | 1.0.2 |
 | Evaisa | [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) | 0.0.5 |
 | Evaisa | [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) | 0.13.2 |
 | Evaisa | [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) | 0.9.4 |
-| HolographicWings | [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 1.3.19 |
+| HolographicWings | [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 1.3.21 |
 | FireNoobsta | [Ducks_Moons](https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/) | 1.1.3 |
 | no00ob | [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) | 1.4.0 |
 | Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.2.0 |
