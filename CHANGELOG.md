@@ -1,3 +1,7 @@
+### v2.3.6
+```
+- Fixed 3rd person and cosmetics so they don't ACTUALLY blind you in-game when you join the lobby
+```
 ### v2.3.5
 ```
 - Updated LCSoundTool
