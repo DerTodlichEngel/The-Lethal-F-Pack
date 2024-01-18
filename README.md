@@ -32,8 +32,8 @@
 | Evaisa | [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) | 0.9.4 |
 | HolographicWings | [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 1.3.21 |
 | FireNoobsta | [Ducks_Moons](https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/) | 1.1.3 |
-| no00ob | [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) | 1.4.0 |
-| Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.2.0 |
+| no00ob | [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) | 1.5.0 |
+| Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.3.0 |
 | Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
 | SlushyRH | [FreeeeeeMoooooons](https://thunderstore.io/c/lethal-company/p/SlushyRH/FreeeeeeMoooooons/) | 1.0.1 |
 | sunnobunno | [LandMineFartReverb](https://thunderstore.io/c/lethal-company/p/sunnobunno/LandMineFartReverb/) | 1.0.3 |
@@ -77,7 +77,8 @@
 | FutureSavior | [Hold_Scan_Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/) | 1.1.1 |
 | sunnobunno | [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) | 1.2.3 |
 | Pooble | [LCFartLizards](https://thunderstore.io/c/lethal-company/p/Pooble/LCFartLizards/) | 1.2.1 |
-| Mhz | [MoreHead](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/) | 1.2.3 |
+| Mhz | [MoreHead](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/) | 1.2.4 |
+| HGG | [JigglePhysicsPlugin](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin/) | 1.1.1 |
 | TanmanG | [Forest_Giant_Motionsense](https://thunderstore.io/c/lethal-company/p/TanmanG/Forest_Giant_Motionsense/) | 1.0.2 |
 | NomnomAB | [RollingGiant](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/) | 2.3.0 |
 | Coomfy | [CoomfyDungeon](https://thunderstore.io/c/lethal-company/p/Coomfy/CoomfyDungeon/) | 1.0.12 |
@@ -114,7 +115,6 @@
 | Sligili | [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) | 1.3.3 |
 | AlexCodesGames | [AdditionalContentFramework](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/) | 1.0.3 |
 | jockie | [LethalExpansionCore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/) | 1.3.14 |
-| ZG | [BetterSpec](https://thunderstore.io/c/lethal-company/p/ZG/BetterSpec/) | 1.1.2 |
 | MoonJuice | [RubberChicken](https://thunderstore.io/c/lethal-company/p/MoonJuice/RubberChicken/) | 1.0.2 |
 | CharlesE2 | [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/) | 1.0.4 |
 | loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 1.2.3 |

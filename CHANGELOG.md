@@ -1,3 +1,11 @@
+### v2.3.5
+```
+- Updated LCSoundTool
+- Updated CustomSounds
+- Updated MoreHeads
+- Added JigglePhysicsPlugin (Now my hat can twerk with me)
+- Removed BetterSpec
+```
 ### v1.3.4
 ```
 - Updated LethalExpansion
