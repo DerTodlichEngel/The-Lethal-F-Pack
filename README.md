@@ -33,7 +33,7 @@
 | HolographicWings | [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 1.3.21 |
 | FireNoobsta | [Ducks_Moons](https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/) | 1.1.3 |
 | no00ob | [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) | 1.5.0 |
-| Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.3.0 |
+| Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.3.1 |
 | Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
 | SlushyRH | [FreeeeeeMoooooons](https://thunderstore.io/c/lethal-company/p/SlushyRH/FreeeeeeMoooooons/) | 1.0.1 |
 | sunnobunno | [LandMineFartReverb](https://thunderstore.io/c/lethal-company/p/sunnobunno/LandMineFartReverb/) | 1.0.3 |
@@ -60,7 +60,7 @@
 | emmie | [LethalSanrio](https://thunderstore.io/c/lethal-company/p/emmie/LethalSanrio/) | 1.1.0 |
 | ViViKo | [MoreMaterials](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials/) | 1.3.1 |
 | haigen | [MemeTeamSuits](https://thunderstore.io/c/lethal-company/p/haigen/MemeTeamSuits/) | 1.0.1 |
-| 2018 | [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) | 3.4.4 |
+| 2018 | [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) | 3.4.5 |
 | happyfrosty | [FrostySuits2](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits2/) | 1.0.9 |
 | ViViKo | [MemeSuits](https://thunderstore.io/c/lethal-company/p/ViViKo/MemeSuits/) | 1.1.0 |
 | BrotherPig | [MountainDewMan_Suits](https://thunderstore.io/c/lethal-company/p/BrotherPig/MountainDewMan_Suits/) | 1.0.2 |
@@ -73,7 +73,7 @@
 | Stoneman | [LethalProgression](https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/) | 1.3.2 |
 | Sligili | [HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/) | 1.5.6 |
 | BatTeam | [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) | 1.0.6 |
-| FlipMods | [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) | 1.5.6 |
+| FlipMods | [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) | 1.5.7 |
 | FutureSavior | [Hold_Scan_Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/) | 1.1.1 |
 | sunnobunno | [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) | 1.2.3 |
 | Pooble | [LCFartLizards](https://thunderstore.io/c/lethal-company/p/Pooble/LCFartLizards/) | 1.2.1 |
@@ -89,7 +89,7 @@
 | ENZ | [Lock_Doors_Mod](https://thunderstore.io/c/lethal-company/p/ENZ/Lock_Doors_Mod/) | 1.1.0 |
 | matsuura | [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/) | 1.0.2 |
 | ButteryStancakes | [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) | 1.1.1 |
-| darmuh | [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/) | 1.5.0 |
+| darmuh | [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/) | 1.5.1 |
 | FlipMods | [FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) | 1.2.1 |
 | FlipMods | [LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/) | 1.0.1 |
 | NiceHairs | [NuclearLib](https://thunderstore.io/c/lethal-company/p/NiceHairs/NuclearLib/) | 1.0.4 |
@@ -117,6 +117,7 @@
 | jockie | [LethalExpansionCore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/) | 1.3.14 |
 | MoonJuice | [RubberChicken](https://thunderstore.io/c/lethal-company/p/MoonJuice/RubberChicken/) | 1.0.2 |
 | CharlesE2 | [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/) | 1.0.4 |
-| loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 1.2.3 |
+| loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 2.0.0 |
 | kuba6000 | [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) | 0.0.2 |
 | sfDesat | [ExpansionAssets](https://thunderstore.io/c/lethal-company/p/sfDesat/ExpansionAssets/) | 1.0.0 |
+| NotAtomicBomb | [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) | 1.5.1 |
