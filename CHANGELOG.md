@@ -1,3 +1,11 @@
+### v3.4.6
+```
+- Updated FacilityMeltdown
+- Updated RollingGiant
+- Updated MoreHead
+- Updated Aquatis
+- Updated MoreCompany
+```
 ### v3.3.6
 ```
 - Updated CustomSounds
@@ -16,7 +24,7 @@
 ```
 - Updated LCSoundTool
 - Updated CustomSounds
-- Updated MoreHeads
+- Updated MoreHead
 - Added JigglePhysicsPlugin (Now my hat can twerk with me)
 - Removed BetterSpec
 ```
