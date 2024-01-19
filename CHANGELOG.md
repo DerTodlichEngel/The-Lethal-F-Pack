@@ -1,3 +1,13 @@
+### v3.3.6
+```
+- Updated CustomSounds
+- Updated LC_API
+- Updated ghostCodes
+- Updated HotbarPlus
+- Updated FacilityMeltdown
+- Added TerminalApi
+- Fixed CustomSounds not initializing properly
+```
 ### v2.3.6
 ```
 - Fixed 3rd person and cosmetics so they don't ACTUALLY blind you in-game when you join the lobby
