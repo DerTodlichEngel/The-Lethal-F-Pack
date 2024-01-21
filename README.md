@@ -34,7 +34,6 @@
 | FireNoobsta | [Ducks_Moons](https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/) | 1.1.3 |
 | no00ob | [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) | 1.5.0 |
 | Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.3.1 |
-| Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
 | SlushyRH | [FreeeeeeMoooooons](https://thunderstore.io/c/lethal-company/p/SlushyRH/FreeeeeeMoooooons/) | 1.0.1 |
 | sunnobunno | [LandMineFartReverb](https://thunderstore.io/c/lethal-company/p/sunnobunno/LandMineFartReverb/) | 1.0.3 |
 | TwinDimensionalProductions | [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 1.0.3 |
@@ -47,12 +46,10 @@
 | Blorb | [WeatherMultipliers](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/) | 1.1.0 |
 | sfDesat | [Orion](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/) | 1.2.3 |
 | ExioMadeThis | [Ahegao_Suit](https://thunderstore.io/c/lethal-company/p/ExioMadeThis/Ahegao_Suit/) | 1.0.0 |
-| Deli | [Chipi_Chipi_Dropship](https://thunderstore.io/c/lethal-company/p/Deli/Chipi_Chipi_Dropship/) | 2.0.1 |
 | e3s1 | [BetterLadders](https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders/) | 1.4.0 |
 | Chrispacito | [Longnose_Anime_Suits](https://thunderstore.io/c/lethal-company/p/Chrispacito/Longnose_Anime_Suits/) | 1.0.2 |
 | femboytv | [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/) | 1.2.0 |
 | skelobite | [Posters_of_Cats_and_More](https://thunderstore.io/c/lethal-company/p/skelobite/Posters_of_Cats_and_More/) | 1.0.3 |
-| FutureSavior | [CrankThatJester](https://thunderstore.io/c/lethal-company/p/FutureSavior/CrankThatJester/) | 1.1.2 |
 | SirTyler | [BetterTeleporter](https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/) | 1.2.2 |
 | boywyfe | [MikuSuit](https://thunderstore.io/c/lethal-company/p/boywyfe/MikuSuit/) | 1.0.2 |
 | Rattenbonkers | [TVLoader](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/TVLoader/) | 1.1.1 |
@@ -103,6 +100,9 @@
 | IAmBatby | [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) | 1.0.7 |
 | MonkeyMan | [Family_Guy_TV_Extended](https://thunderstore.io/c/lethal-company/p/MonkeyMan/Family_Guy_TV_Extended/) | 1.0.0 |
 | boidog | [old_school_youtube_TV_pack](https://thunderstore.io/c/lethal-company/p/boidog/old_school_youtube_TV_pack/) | 1.1.1 |
+| FutureSavior | [CrankThatJester](https://thunderstore.io/c/lethal-company/p/FutureSavior/CrankThatJester/) | 1.1.2 |
+| Deli | [Chipi_Chipi_Dropship](https://thunderstore.io/c/lethal-company/p/Deli/Chipi_Chipi_Dropship/) | 2.0.1 |
+| Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
 | Odyssey | [OdysseySounds](https://thunderstore.io/c/lethal-company/p/Odyssey/OdysseySounds/) | 1.3.2 |
 | Caseuhdeeyuh | [MolesterLootBug](https://thunderstore.io/c/lethal-company/p/Caseuhdeeyuh/MolesterLootBug/) | 1.1.0 |
 | mattplays | [HoarderBugUseItems](https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/) | 1.0.3 |
