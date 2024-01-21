@@ -1,3 +1,12 @@
+### v4.4.6
+```
+- Updated RubberChicken (fixed inv/holding bug)
+- Updated MoreCompany
+- Updated CustomSounds (Condensed Sounds into one file for better compatibility)
+- Updated MaskedEnemyOverhaul
+- Updated RollingGiant (A true enemy now, better watch out)
+- Updated LethalExpansion
+```
 ### v3.4.6
 ```
 - Updated FacilityMeltdown
