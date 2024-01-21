@@ -1,3 +1,9 @@
+### v4.5.6
+```
+- Updated RollingGiant
+- Updated LethalCompanyInputUtils
+- Updated BetterLadders
+```
 ### v4.4.6
 ```
 - Updated RubberChicken (fixed inv/holding bug)
