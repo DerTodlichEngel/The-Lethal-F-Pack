@@ -1,3 +1,7 @@
+### v4.5.7
+```
+- Updated FrostySuits
+```
 ### v4.5.6
 ```
 - Updated RollingGiant
