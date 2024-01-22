@@ -6,7 +6,7 @@
 > I will also be making a personal pack for a semi balanced yet casual solo run experience for the horror fans out there who maybe don't always have a crew with them.
 
 > [!WARNING]
-> If not hearing custom audio, you may need to [download](https://thunderstore.io/package/download/DerTodlichEngel/The_Lethal_F_Pack/4.5.7/) the modpack and drag the `BepInEx` folder from the zip into the thunder stores profile `"C:\Users\local\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default"`
+> If not hearing custom audio, you may need to [download](https://thunderstore.io/package/download/DerTodlichEngel/The_Lethal_F_Pack/5.5.7/) the modpack and drag the `BepInEx` folder from the zip into the thunder stores profile `"C:\Users\local\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default"`
 
 > [!IMPORTANT]
 > [Known Issue!](https://github.com/DerTodlichEngel/The-Lethal-F-Pack/issues/1)  
@@ -124,3 +124,15 @@
 | kuba6000 | [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) | 0.0.2 |
 | sfDesat | [ExpansionAssets](https://thunderstore.io/c/lethal-company/p/sfDesat/ExpansionAssets/) | 1.0.0 |
 | NotAtomicBomb | [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) | 1.5.1 |
+| KayNetsua | [E_Gypt_Moon](https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/) | 2.0.11 |
+| Monkeytype | [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/) | 1.0.0 |
+| AllToasters | [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/) | 1.2.0 |
+| EliteMasterEric | [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) | 1.5.3 |
+| Zaggy1024 | [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) | 1.2.0 |
+| Major_And_Skiz | [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/) | 1.2.1 |
+| Pooble | [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) | 1.7.3 |
+| Nyxchrono | [DoorBreach](https://thunderstore.io/c/lethal-company/p/Nyxchrono/DoorBreach/) | 1.1.0 |
+| Piggy | [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) | 0.0.9 |
+| xilophor | [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/) | 2.0.0 |
+| Lordfirespeed | [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/) | 2022.11.9 |
+| RickArg | [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) | 2.1.5 |
