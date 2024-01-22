@@ -1,3 +1,7 @@
+### v5.5.8
+```
+- Updated LethalNetworkAPI
+```
 ### v5.5.7
 ```
 - Added EGyptMoon
