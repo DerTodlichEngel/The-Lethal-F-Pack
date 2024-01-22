@@ -1,3 +1,18 @@
+### v5.5.7
+```
+- Added EGyptMoon
+- Added HideChat
+- Added QuickRestart
+- Added Coroner
+- Added PathfindingLagFix
+- Added MoreInteriors
+- Added LCBetterSaves
+- Added DoorBreach
+- Added LCOffice
+- Added LethalNetworkAPI (dep)
+- Added OdinSerializer (dep)
+- Added HelmetCameras
+```
 ### v4.5.7
 ```
 - Updated FrostySuits
