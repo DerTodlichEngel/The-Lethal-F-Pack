@@ -1,3 +1,8 @@
+### v5.6.8
+```
+- Removed HelmetCameras
+- Removed MolesterLootBug (until a config file is accessible)
+```
 ### v5.5.8
 ```
 - Updated LethalNetworkAPI
