@@ -6,7 +6,7 @@
 > I will also be making a personal pack for a semi balanced yet casual solo run experience for the horror fans out there who maybe don't always have a crew with them.
 
 > [!WARNING]
-> If not hearing custom audio, you may need to [download](https://thunderstore.io/package/download/DerTodlichEngel/The_Lethal_F_Pack/5.5.8/) the modpack and drag the `BepInEx` folder from the zip into the thunder stores profile `"C:\Users\local\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default"`
+> If not hearing custom audio, you may need to [download](https://thunderstore.io/package/download/DerTodlichEngel/The_Lethal_F_Pack/5.6.8/) the modpack and drag the `BepInEx` folder from the zip into the thunder stores profile `"C:\Users\local\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default"`
 
 > [!IMPORTANT]
 > [Known Issue!](https://github.com/DerTodlichEngel/The-Lethal-F-Pack/issues/1)  
@@ -107,7 +107,6 @@
 | Deli | [Chipi_Chipi_Dropship](https://thunderstore.io/c/lethal-company/p/Deli/Chipi_Chipi_Dropship/) | 2.0.1 |
 | Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
 | Odyssey | [OdysseySounds](https://thunderstore.io/c/lethal-company/p/Odyssey/OdysseySounds/) | 1.3.2 |
-| Caseuhdeeyuh | [MolesterLootBug](https://thunderstore.io/c/lethal-company/p/Caseuhdeeyuh/MolesterLootBug/) | 1.1.0 |
 | mattplays | [HoarderBugUseItems](https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/) | 1.0.3 |
 | Kittenji | [Groan_Tube_Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/) | 1.0.1 |
 | egeadam | [MoreScreams](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/) | 1.0.3 |
@@ -135,4 +134,3 @@
 | Piggy | [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) | 0.0.9 |
 | xilophor | [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/) | 2.0.1 |
 | Lordfirespeed | [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/) | 2022.11.9 |
-| RickArg | [Helmet_Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) | 2.1.5 |
