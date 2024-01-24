@@ -1,3 +1,15 @@
+### v6.6.8
+```
+- Added more and organized custom sounds - Credit in Readme w/ links
+- Updated RollingGiant
+- Updated LethalCompanyInputUtils
+- Updated JigglePhysicsPlugin
+- Holding update of Dafinis until they can use lethal expansion core again
+- Removed LCOffice (and deps) until more stable
+- Added MemeSoundboard
+- Added VinsMemeSounds
+- Added PintoBoy
+```
 ### v5.6.8
 ```
 - Removed HelmetCameras

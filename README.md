@@ -6,7 +6,7 @@
 > I will also be making a personal pack for a semi balanced yet casual solo run experience for the horror fans out there who maybe don't always have a crew with them.
 
 > [!WARNING]
-> If not hearing custom audio, you may need to [download](https://thunderstore.io/package/download/DerTodlichEngel/The_Lethal_F_Pack/5.6.8/) the modpack and drag the `BepInEx` folder from the zip into the thunder stores profile `"C:\Users\local\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default"`
+> If not hearing custom audio, you may need to [download](https://thunderstore.io/package/download/DerTodlichEngel/The_Lethal_F_Pack/6.6.8/) the modpack and drag the `BepInEx` folder from the zip into the thunder stores profile `"C:\Users\local\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default"`
 
 > [!IMPORTANT]
 > [Known Issue!](https://github.com/DerTodlichEngel/The-Lethal-F-Pack/issues/1)  
@@ -27,7 +27,7 @@
 | MassiveNewCoilers | [FixCentipedeLag](https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/) | 2023.12.7 |
 | EliteMasterEric | [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/) | 2.0.0 |
 | RugbugRedfern | [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) | 4.0.1 |
-| Rune580 | [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) | 0.5.6 |
+| Rune580 | [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) | 0.6.0 |
 | HomelessGinger | [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) | 3.1.0 |
 | Drakorle | [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) | 1.0.2 |
 | Evaisa | [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) | 0.0.5 |
@@ -75,12 +75,11 @@
 | BatTeam | [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) | 1.0.6 |
 | FlipMods | [HotbarPlus](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/) | 1.5.7 |
 | FutureSavior | [Hold_Scan_Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/) | 1.1.1 |
-| sunnobunno | [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) | 1.2.3 |
 | Pooble | [LCFartLizards](https://thunderstore.io/c/lethal-company/p/Pooble/LCFartLizards/) | 1.2.1 |
 | Mhz | [MoreHead](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/) | 1.2.5 |
-| HGG | [JigglePhysicsPlugin](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin/) | 1.1.1 |
+| HGG | [JigglePhysicsPlugin](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin/) | 1.1.2 |
 | TanmanG | [Forest_Giant_Motionsense](https://thunderstore.io/c/lethal-company/p/TanmanG/Forest_Giant_Motionsense/) | 1.0.2 |
-| NomnomAB | [RollingGiant](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/) | 2.4.3 |
+| NomnomAB | [RollingGiant](https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/) | 2.4.4 |
 | Coomfy | [CoomfyDungeon](https://thunderstore.io/c/lethal-company/p/Coomfy/CoomfyDungeon/) | 1.0.12 |
 | Jamil | [Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/) | 1.0.6 |
 | linkoid | [DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/) | 1.0.0 |
@@ -106,6 +105,7 @@
 | FutureSavior | [CrankThatJester](https://thunderstore.io/c/lethal-company/p/FutureSavior/CrankThatJester/) | 1.1.2 |
 | Deli | [Chipi_Chipi_Dropship](https://thunderstore.io/c/lethal-company/p/Deli/Chipi_Chipi_Dropship/) | 2.0.1 |
 | Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
+| LethalResonance | [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) | 2.2.1 |
 | Odyssey | [OdysseySounds](https://thunderstore.io/c/lethal-company/p/Odyssey/OdysseySounds/) | 1.3.2 |
 | mattplays | [HoarderBugUseItems](https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/) | 1.0.3 |
 | Kittenji | [Groan_Tube_Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/) | 1.0.1 |
@@ -131,6 +131,6 @@
 | Major_And_Skiz | [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/) | 1.2.1 |
 | Pooble | [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) | 1.7.3 |
 | Nyxchrono | [DoorBreach](https://thunderstore.io/c/lethal-company/p/Nyxchrono/DoorBreach/) | 1.1.0 |
-| Piggy | [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) | 0.0.9 |
-| xilophor | [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/) | 2.0.1 |
-| Lordfirespeed | [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/) | 2022.11.9 |
+| Flof | [MemeSoundboard](https://thunderstore.io/c/lethal-company/p/Flof/MemeSoundboard/) | 1.1.2 |
+| mogus | [VinsMemeSounds](https://thunderstore.io/c/lethal-company/p/mogus/VinsMemeSounds/) | 1.0.5 |
+| Pinta | [PintoBoy](https://thunderstore.io/c/lethal-company/p/Pinta/PintoBoy/) | 1.0.4 |
