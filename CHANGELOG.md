@@ -1,3 +1,11 @@
+### v6.7.8
+```
+- Updated LethalExpansion
+- Updated LethalExpansionCore
+- Updated AccurateStaminaDisplay
+- Added PizzaTowerEscapeMusic (From Branch of Lethal Resonance/Facility Meltdown)
+- Holding update of Dafinis until they can use lethal expansion core again
+```
 ### v6.6.8
 ```
 - Added more and organized custom sounds - Credit in Readme w/ links
