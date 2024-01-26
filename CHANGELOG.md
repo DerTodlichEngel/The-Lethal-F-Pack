@@ -1,3 +1,7 @@
+### 7.1.0
+```
+- Replaced FlashlightToggle with an updated FlashlightFix which adds its own toggle
+```
 ### v7.0.0
 ```
 - Updated EGyptMoon
