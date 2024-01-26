@@ -1,3 +1,26 @@
+### v7.0.0
+```
+- Updated EGyptMoon
+- Holding update of FlashlightFix as newest version breaks everything API related
+- Holding update of Dafinis until they can use lethal expansion core again
+- Added winfi4YoutubeBoombox
+- Added IsThisTheWayICame
+- Added FireExitLadders
+- Added LethalAutocomplete
+- Added Acidir
+- Added AtlasAbyss
+- Added Celest
+- Added Etern
+- Added Ether
+- Added Infernis
+- Added DontTouchMe
+- Added DoorFix
+- Added BetterDoorWarning
+- Added SuitSave
+- Added DetailedScan
+- Added FairAI
+- Added SellFromTerminal
+```
 ### v6.7.8
 ```
 - Updated LethalExpansion
