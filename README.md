@@ -17,7 +17,7 @@
 | notnotnotswipez | [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) | 1.7.5 |
 | x753 | [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) | 1.4.1 |
 | x753 | [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) | 2.3.2 |
-| Renegades | [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) | 1.5.0 |
+| ShaosilGaming | [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) | 1.0.7 |
 | AlexCodesGames | [AdditionalSuits](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/) | 2.0.0 |
 | Suskitech | [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) | 1.4.4 |
 | tinyhoot | [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/) | 1.0.2 |
@@ -92,7 +92,6 @@
 | NiceHairs | [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/) | 1.0.5 |
 | ViViKo | [NoSellLimit](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/) | 1.0.1 |
 | F4ilS4fe | [MaskTheDead](https://thunderstore.io/c/lethal-company/p/F4ilS4fe/MaskTheDead/) | 1.0.5 |
-| ShaosilGaming | [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) | 1.0.5 |
 | MagicalFlyingPurpleTreeSquid | [Drive_Suit](https://thunderstore.io/c/lethal-company/p/MagicalFlyingPurpleTreeSquid/Drive_Suit/) | 1.0.3 |
 | Verity | [3rdPerson](https://thunderstore.io/c/lethal-company/p/Verity/3rdPerson/) | 1.1.0 |
 | CTNOriginals | [CrossHair](https://thunderstore.io/c/lethal-company/p/CTNOriginals/CrossHair/) | 1.0.5 |
