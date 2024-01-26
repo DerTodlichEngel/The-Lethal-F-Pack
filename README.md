@@ -102,7 +102,7 @@
 | FutureSavior | [CrankThatJester](https://thunderstore.io/c/lethal-company/p/FutureSavior/CrankThatJester/) | 1.1.2 |
 | Deli | [Chipi_Chipi_Dropship](https://thunderstore.io/c/lethal-company/p/Deli/Chipi_Chipi_Dropship/) | 2.0.1 |
 | Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
-| LethalResonance | [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) | 2.2.3 |
+| LethalResonance | [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) | 2.2.5 |
 | Odyssey | [OdysseySounds](https://thunderstore.io/c/lethal-company/p/Odyssey/OdysseySounds/) | 1.3.2 |
 | mattplays | [HoarderBugUseItems](https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/) | 1.0.3 |
 | Kittenji | [Groan_Tube_Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/) | 1.0.1 |
@@ -120,7 +120,7 @@
 | kuba6000 | [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) | 0.0.2 |
 | sfDesat | [ExpansionAssets](https://thunderstore.io/c/lethal-company/p/sfDesat/ExpansionAssets/) | 1.0.0 |
 | NotAtomicBomb | [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) | 1.5.1 |
-| KayNetsua | [E_Gypt_Moon](https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/) | 2.0.11 |
+| KayNetsua | [E_Gypt_Moon](https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/) | 2.0.13 |
 | Monkeytype | [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/) | 1.0.0 |
 | AllToasters | [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/) | 1.2.0 |
 | EliteMasterEric | [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) | 1.5.3 |
@@ -132,3 +132,20 @@
 | mogus | [VinsMemeSounds](https://thunderstore.io/c/lethal-company/p/mogus/VinsMemeSounds/) | 1.0.5 |
 | Pinta | [PintoBoy](https://thunderstore.io/c/lethal-company/p/Pinta/PintoBoy/) | 1.0.4 |
 | BGN | [PizzaTowerEscapeMusic](https://thunderstore.io/c/lethal-company/p/BGN/PizzaTowerEscapeMusic/) | 2.3.0 |
+| Winfi4 | [winfi4YoutubeBoombox](https://thunderstore.io/c/lethal-company/p/Winfi4/winfi4YoutubeBoombox/) | 1.0.2 |
+| Electric131 | [IsThisTheWayICame](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/) | 1.1.4 |
+| Cobster | [FireExitLadders](https://thunderstore.io/c/lethal-company/p/Cobster/FireExitLadders/) | 1.0.1 |
+| red_eye | [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) | 0.4.3 |
+| Magic_Wesley | [Acidir](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Acidir/) | 2.0.0 |
+| Zingar | [Atlas_Abyss](https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/) | 1.1.6 |
+| sfDesat | [Celest](https://thunderstore.io/c/lethal-company/p/sfDesat/Celest/) | 0.2.1 |
+| Magic_Wesley | [Etern](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Etern/) | 1.3.4 |
+| LethalMoonTeam | [Ether](https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/) | 1.6.1 |
+| Magic_Wesley | [Infernis](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/) | 1.5.2 |
+| Kittenji | [Dont_Touch_Me](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/) | 1.2.1 |
+| itsmeowdev | [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/) | 1.0.0 |
+| bozzobrain | [BetterDoorWarning](https://thunderstore.io/c/lethal-company/p/bozzobrain/BetterDoorWarning/) | 1.0.0 |
+| Hexnet111 | [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) | 1.1.4 |
+| fivetoofive | [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/) | 1.2.2 |
+| TheFluff | [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) | 1.3.1 |
+| stormytuna | [SellFromTerminal](https://thunderstore.io/c/lethal-company/p/stormytuna/SellFromTerminal/) | 1.1.2 |
