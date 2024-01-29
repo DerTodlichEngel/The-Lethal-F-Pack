@@ -17,6 +17,7 @@
 | notnotnotswipez | [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) | 1.7.5 |
 | x753 | [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) | 1.4.1 |
 | x753 | [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) | 2.3.2 |
+| AlexCodesGames | [AdditionalContentFramework](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/) | 1.0.3 |
 | ShaosilGaming | [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) | 1.0.7 |
 | AlexCodesGames | [AdditionalSuits](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/) | 2.0.0 |
 | Suskitech | [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) | 1.4.4 |
@@ -24,13 +25,14 @@
 | MassiveNewCoilers | [FixCentipedeLag](https://thunderstore.io/c/lethal-company/p/MassiveNewCoilers/FixCentipedeLag/) | 2023.12.7 |
 | EliteMasterEric | [WackyCosmetics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/) | 2.0.0 |
 | RugbugRedfern | [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) | 4.0.1 |
-| Rune580 | [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) | 0.6.0 |
+| Rune580 | [LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) | 0.6.1 |
 | HomelessGinger | [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) | 3.1.0 |
 | Drakorle | [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) | 1.0.2 |
 | Evaisa | [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) | 0.0.5 |
-| Evaisa | [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) | 0.14.0 |
+| Evaisa | [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) | 0.14.2 |
 | Evaisa | [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) | 0.9.4 |
-| HolographicWings | [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 1.3.23 |
+| HolographicWings | [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 1.3.25 |
+| HolographicWings | [LEDefaultModules](https://thunderstore.io/c/lethal-company/p/HolographicWings/LEDefaultModules/) | 1.3.25 |
 | FireNoobsta | [Ducks_Moons](https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/) | 1.1.3 |
 | no00ob | [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) | 1.5.0 |
 | Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.3.1 |
@@ -39,7 +41,7 @@
 | TwinDimensionalProductions | [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 1.0.3 |
 | Propain_Gang | [Dracula Flow The Official Saga](https://thunderstore.io/c/lethal-company/p/Propain_Gang/Dracula_Flow_The_Official_Saga/) | 1.0.0 |
 | Verity | [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) | 1.0.5 |
-| happyfrosty | [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/) | 1.1.10 |
+| happyfrosty | [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/) | 1.1.11 |
 | Owen3H | [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) | 1.4.2 |
 | Renegades | [WalkieUse](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/) | 1.5.0 |
 | AllToasters | [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) | 2.2.1 |
@@ -51,9 +53,9 @@
 | femboytv | [LethalPosters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/) | 1.2.0 |
 | skelobite | [Posters_of_Cats_and_More](https://thunderstore.io/c/lethal-company/p/skelobite/Posters_of_Cats_and_More/) | 1.0.3 |
 | SirTyler | [BetterTeleporter](https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/) | 1.2.2 |
-| boywyfe | [MikuSuit](https://thunderstore.io/c/lethal-company/p/boywyfe/MikuSuit/) | 1.0.2 |
+| boywyfe | [MikuSuit](https://thunderstore.io/c/lethal-company/p/boywyfe/MikuSuit/) | 1.0.3 |
 | Rattenbonkers | [TVLoader](https://thunderstore.io/c/lethal-company/p/Rattenbonkers/TVLoader/) | 1.1.1 |
-| boywyfe | [Miku_TV](https://thunderstore.io/c/lethal-company/p/boywyfe/Miku_TV/) | 3.0.0 |
+| boywyfe | [Miku_TV](https://thunderstore.io/c/lethal-company/p/boywyfe/Miku_TV/) | 4.0.1 |
 | emmie | [LethalSanrio](https://thunderstore.io/c/lethal-company/p/emmie/LethalSanrio/) | 1.1.0 |
 | ViViKo | [MoreMaterials](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials/) | 1.3.1 |
 | haigen | [MemeTeamSuits](https://thunderstore.io/c/lethal-company/p/haigen/MemeTeamSuits/) | 1.0.1 |
@@ -64,7 +66,7 @@
 | quackandcheese | [MinecraftTaigaMoon](https://thunderstore.io/c/lethal-company/p/quackandcheese/MinecraftTaigaMoon/) | 1.1.1 |
 | FlipMods | [ObjectVolumeController](https://thunderstore.io/c/lethal-company/p/FlipMods/ObjectVolumeController/) | 1.0.4 |
 | Ceelery | [Kast](https://thunderstore.io/c/lethal-company/p/Ceelery/Kast/) | 1.0.3 |
-| scoopy | [Scoopys_Variety_Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/) | 0.6.5 |
+| scoopy | [Scoopys_Variety_Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/) | 1.0.0 |
 | IntegrityChaos | [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/) | 1.1.10 |
 | sfDesat | [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/) | 1.1.0 |
 | Stoneman | [LethalProgression](https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/) | 1.3.2 |
@@ -81,10 +83,11 @@
 | Jamil | [Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/) | 1.0.6 |
 | linkoid | [DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/) | 1.0.0 |
 | FutureSavior | [Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/) | 1.1.2 |
+| HolographicWings | [LethalSDK](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalSDK/) | 1.3.19 |
 | Dafini | [Dafis_Mega_Moon_Pack_Emporium](https://thunderstore.io/c/lethal-company/p/Dafini/Dafis_Mega_Moon_Pack_Emporium/) | 1.3.19 |
 | ENZ | [Lock_Doors_Mod](https://thunderstore.io/c/lethal-company/p/ENZ/Lock_Doors_Mod/) | 1.1.0 |
 | matsuura | [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/) | 1.0.2 |
-| ButteryStancakes | [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) | 1.1.2 |
+| ButteryStancakes | [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) | 1.2.0 |
 | darmuh | [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/) | 1.5.1 |
 | FlipMods | [FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) | 1.2.1 |
 | FlipMods | [LetMeLookDown](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/) | 1.0.1 |
@@ -111,11 +114,10 @@
 | PC | [FireExitFlip](https://thunderstore.io/c/lethal-company/p/PC/FireExitFlip/) | 1.0.0 |
 | Ozone | [Runtime_Netcode_Patcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/) | 0.2.5 |
 | Sligili | [More_Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) | 1.3.3 |
-| AlexCodesGames | [AdditionalContentFramework](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/) | 1.0.3 |
 | jockie | [LethalExpansionCore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/) | 1.3.15 |
 | MoonJuice | [RubberChicken](https://thunderstore.io/c/lethal-company/p/MoonJuice/RubberChicken/) | 1.0.2 |
 | CharlesE2 | [HostFixes](https://thunderstore.io/c/lethal-company/p/CharlesE2/HostFixes/) | 1.0.4 |
-| loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 2.0.2 |
+| loaforc | [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) | 2.1.1 |
 | kuba6000 | [LC Masked Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/) | 0.0.2 |
 | sfDesat | [ExpansionAssets](https://thunderstore.io/c/lethal-company/p/sfDesat/ExpansionAssets/) | 1.0.0 |
 | NotAtomicBomb | [TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) | 1.5.1 |
@@ -139,7 +141,7 @@
 | Zingar | [Atlas_Abyss](https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/) | 1.1.6 |
 | sfDesat | [Celest](https://thunderstore.io/c/lethal-company/p/sfDesat/Celest/) | 0.2.1 |
 | Magic_Wesley | [Etern](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Etern/) | 1.3.4 |
-| LethalMoonTeam | [Ether](https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/) | 1.6.1 |
+| LethalMoonTeam | [Ether](https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/) | 1.6.2 |
 | Magic_Wesley | [Infernis](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/) | 1.5.2 |
 | Kittenji | [Dont_Touch_Me](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/) | 1.2.1 |
 | itsmeowdev | [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/) | 1.0.0 |
