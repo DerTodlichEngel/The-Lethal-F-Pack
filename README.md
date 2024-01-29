@@ -28,7 +28,7 @@
 | HomelessGinger | [MaskedEnemyOverhaul](https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/) | 3.1.0 |
 | Drakorle | [MoreItems](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) | 1.0.2 |
 | Evaisa | [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) | 0.0.5 |
-| Evaisa | [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) | 0.13.2 |
+| Evaisa | [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) | 0.14.0 |
 | Evaisa | [LethalThings](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/) | 0.9.4 |
 | HolographicWings | [LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 1.3.23 |
 | FireNoobsta | [Ducks_Moons](https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/) | 1.1.3 |
@@ -81,7 +81,7 @@
 | Jamil | [Corporate_Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/) | 1.0.6 |
 | linkoid | [DissonanceLagFix](https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/) | 1.0.0 |
 | FutureSavior | [Boombox_Sync_Fix](https://thunderstore.io/c/lethal-company/p/FutureSavior/Boombox_Sync_Fix/) | 1.1.2 |
-| Dafini | [Dafis_Mega_Moon_Pack_Emporium](https://thunderstore.io/c/lethal-company/p/Dafini/Dafis_Mega_Moon_Pack_Emporium/) | 1.3.12 |
+| Dafini | [Dafis_Mega_Moon_Pack_Emporium](https://thunderstore.io/c/lethal-company/p/Dafini/Dafis_Mega_Moon_Pack_Emporium/) | 1.3.19 |
 | ENZ | [Lock_Doors_Mod](https://thunderstore.io/c/lethal-company/p/ENZ/Lock_Doors_Mod/) | 1.1.0 |
 | matsuura | [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/) | 1.0.2 |
 | ButteryStancakes | [AccurateStaminaDisplay](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/AccurateStaminaDisplay/) | 1.1.2 |
@@ -94,14 +94,14 @@
 | F4ilS4fe | [MaskTheDead](https://thunderstore.io/c/lethal-company/p/F4ilS4fe/MaskTheDead/) | 1.0.5 |
 | MagicalFlyingPurpleTreeSquid | [Drive_Suit](https://thunderstore.io/c/lethal-company/p/MagicalFlyingPurpleTreeSquid/Drive_Suit/) | 1.0.3 |
 | Verity | [3rdPerson](https://thunderstore.io/c/lethal-company/p/Verity/3rdPerson/) | 1.1.0 |
-| CTNOriginals | [CrossHair](https://thunderstore.io/c/lethal-company/p/CTNOriginals/CrossHair/) | 1.0.5 |
+| CTNOriginals | [CrossHair](https://thunderstore.io/c/lethal-company/p/CTNOriginals/CrossHair/) | 1.1.0 |
 | IAmBatby | [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) | 1.0.7 |
 | MonkeyMan | [Family_Guy_TV_Extended](https://thunderstore.io/c/lethal-company/p/MonkeyMan/Family_Guy_TV_Extended/) | 1.0.0 |
 | boidog | [old_school_youtube_TV_pack](https://thunderstore.io/c/lethal-company/p/boidog/old_school_youtube_TV_pack/) | 1.1.1 |
 | FutureSavior | [CrankThatJester](https://thunderstore.io/c/lethal-company/p/FutureSavior/CrankThatJester/) | 1.1.2 |
 | Deli | [Chipi_Chipi_Dropship](https://thunderstore.io/c/lethal-company/p/Deli/Chipi_Chipi_Dropship/) | 2.0.1 |
 | Parker7680 | [Free_Bird_Ejection](https://thunderstore.io/c/lethal-company/p/Parker7680/Free_Bird_Ejection/) | 1.0.0 |
-| LethalResonance | [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) | 2.2.5 |
+| LethalResonance | [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) | 2.2.8 |
 | Odyssey | [OdysseySounds](https://thunderstore.io/c/lethal-company/p/Odyssey/OdysseySounds/) | 1.3.2 |
 | mattplays | [HoarderBugUseItems](https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/) | 1.0.3 |
 | Kittenji | [Groan_Tube_Scrap](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/) | 1.0.1 |
@@ -123,8 +123,8 @@
 | Monkeytype | [HideChat](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/) | 1.0.0 |
 | AllToasters | [QuickRestart](https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/) | 1.2.0 |
 | EliteMasterEric | [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) | 1.5.3 |
-| Zaggy1024 | [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) | 1.2.0 |
-| Major_And_Skiz | [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/) | 1.2.1 |
+| Zaggy1024 | [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) | 1.2.1 |
+| Major_And_Skiz | [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/) | 1.3.0 |
 | Pooble | [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) | 1.7.3 |
 | Nyxchrono | [DoorBreach](https://thunderstore.io/c/lethal-company/p/Nyxchrono/DoorBreach/) | 1.1.0 |
 | Flof | [MemeSoundboard](https://thunderstore.io/c/lethal-company/p/Flof/MemeSoundboard/) | 1.1.2 |
@@ -146,5 +146,5 @@
 | bozzobrain | [BetterDoorWarning](https://thunderstore.io/c/lethal-company/p/bozzobrain/BetterDoorWarning/) | 1.0.0 |
 | Hexnet111 | [SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) | 1.1.4 |
 | fivetoofive | [DetailedScan](https://thunderstore.io/c/lethal-company/p/fivetoofive/DetailedScan/) | 1.2.2 |
-| TheFluff | [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) | 1.3.1 |
+| TheFluff | [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) | 1.3.2 |
 | stormytuna | [SellFromTerminal](https://thunderstore.io/c/lethal-company/p/stormytuna/SellFromTerminal/) | 1.1.2 |
