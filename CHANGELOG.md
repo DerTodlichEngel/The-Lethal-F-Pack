@@ -1,4 +1,14 @@
-### 7.1.0
+### v7.1.1
+```
+- Updated FairAI
+- Updated MoreInteriors
+- Updated DafisMegaMoonPack due to it working with core still (somehow)
+- Updated LethalResonance
+- Updated LethalLib
+- Updated PathfindingLagFix
+- Updated CrossHair
+```
+### v7.1.0
 ```
 - Replaced FlashlightToggle with an updated FlashlightFix which adds its own toggle
 ```
@@ -6,7 +16,7 @@
 ```
 - Updated EGyptMoon
 - Holding update of FlashlightFix as newest version breaks everything API related
-- Holding update of Dafinis until they can use lethal expansion core again
+- Holding update of DafisMegaMoonPack until they can use lethal expansion core again
 - Added winfi4YoutubeBoombox
 - Added IsThisTheWayICame
 - Added FireExitLadders
