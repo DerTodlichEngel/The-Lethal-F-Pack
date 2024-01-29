@@ -1,3 +1,17 @@
+### v7.1.2
+```
+- Updated MikuSuit
+- Updated LethalLib (De-sync issues should be resolved)
+- Updated AccurateStaminaDisplay
+- Updated FrostySuits
+- Updated LethalCompanyInputUtils
+- Updated LethalExpansion
+- Added LEDefaultModules
+- Updated MikuTV
+- Updated ScoopysVarietyMod (New Interior!)
+- Updated FacilityMeltdown
+- Updated Ether
+```
 ### v7.1.1
 ```
 - Updated FairAI
