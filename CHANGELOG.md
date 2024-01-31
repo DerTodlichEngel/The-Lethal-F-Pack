@@ -1,3 +1,17 @@
+### v7.2.3
+```
+- Removed IsThisTheWayICame (fire exits are now a bit safer)
+- Updated ScoopysVarietyMod
+- Updated DafisMegaMoonPack
+- Updated MoreInteriors
+- Updated RollingGiant
+- Updated MaskedEnemyOverhaul
+- Updated LCSoundTool
+- Updated IntroTweaks
+- Updated HostFixes
+- Updated CoilHeadStare
+- Updated LethalResonance Sounds
+```
 ### v7.1.2
 ```
 - Updated MikuSuit
@@ -11,6 +25,7 @@
 - Updated ScoopysVarietyMod (New Interior!)
 - Updated FacilityMeltdown
 - Updated Ether
+- Updated manifest based on compound dependencies
 ```
 ### v7.1.1
 ```
