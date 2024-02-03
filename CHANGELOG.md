@@ -1,3 +1,12 @@
+### v7.3.0
+```
+- Updated LethalCompanyInputUtils
+- Updated HostFixes
+- Updated RollingGiant
+- Added Herobrine
+- Added LethalMinecraftVillage
+- Condensed Tv Mods into single folder (sorted out the trash or least most of it)
+```
 ### v7.2.3
 ```
 - Removed IsThisTheWayICame (fire exits are now a bit safer)
