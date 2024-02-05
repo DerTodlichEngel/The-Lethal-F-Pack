@@ -1,3 +1,21 @@
+### v7.4.0
+```
+- Updated DafisMegaMoonPack
+- Updated Aquatis
+- Updated Orion
+- Updated ExpansionAssets
+- Updated FacilityMeltdown
+- Added CSync (dep)
+- Updated LethalCompanyInputUtils
+- Updated LethalExpansion
+- Updated LEDefaultModules
+- Updated CoilHeadStare
+- Updated IntroTweaks
+- Updated SpectateEnemies
+- Updated MoreInteriors
+- Updated LethalSDK
+- Updated Coroner
+```
 ### v7.3.0
 ```
 - Updated LethalCompanyInputUtils
