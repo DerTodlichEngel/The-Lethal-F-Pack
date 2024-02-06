@@ -134,12 +134,13 @@
 | Winfi4 | [winfi4YoutubeBoombox](https://thunderstore.io/c/lethal-company/p/Winfi4/winfi4YoutubeBoombox/) | 1.0.2 |
 | Cobster | [FireExitLadders](https://thunderstore.io/c/lethal-company/p/Cobster/FireExitLadders/) | 1.0.1 |
 | red_eye | [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/) | 0.4.3 |
-| Magic_Wesley | [Acidir](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Acidir/) | 2.0.0 |
+| Hardy | [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/) | 1.0.0 |
+| Magic_Wesley | [Acidir](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Acidir/) | 3.0.0 |
 | Zingar | [Atlas_Abyss](https://thunderstore.io/c/lethal-company/p/Zingar/Atlas_Abyss/) | 1.1.6 |
 | sfDesat | [Celest](https://thunderstore.io/c/lethal-company/p/sfDesat/Celest/) | 0.2.1 |
-| Magic_Wesley | [Etern](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Etern/) | 1.3.4 |
-| LethalMoonTeam | [Ether](https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/) | 1.6.2 |
-| Magic_Wesley | [Infernis](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/) | 1.5.2 |
+| Magic_Wesley | [Etern](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Etern/) | 2.0.0 |
+| LethalMoonTeam | [Ether](https://thunderstore.io/c/lethal-company/p/LethalMoonTeam/Ether/) | 1.6.5 |
+| Magic_Wesley | [Infernis](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Infernis/) | 2.0.0 |
 | Kittenji | [Dont_Touch_Me](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/) | 1.2.1 |
 | itsmeowdev | [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/) | 1.0.0 |
 | bozzobrain | [BetterDoorWarning](https://thunderstore.io/c/lethal-company/p/bozzobrain/BetterDoorWarning/) | 1.0.0 |
