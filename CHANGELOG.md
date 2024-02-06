@@ -1,3 +1,11 @@
+### v7.4.1
+```
+- Updated Ether
+- Updated Etern
+- Updated Infernis
+- Updated Acidir
+- Added LCMaxSounds (dep)
+```
 ### v7.4.0
 ```
 - Updated DafisMegaMoonPack
