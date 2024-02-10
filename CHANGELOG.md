@@ -1,3 +1,30 @@
+### v7.5.0
+```
+- Updated MoreCompany
+- Updated LethalLevelLoader
+- Updated LethalExpansion
+- Updated LEDefaultModules
+- Updated MoreInteriors
+- Updated FacilityMeltdown
+- Updated LethalSDK
+- Updated AccurateStaminaDisplay
+- Updated FrostySuits
+- Added Scopophobia
+- Added ImmortalSnail
+- Added Peepers
+- Added ScarletDevilMansion
+- Added DeadAndBored
+```
+### v7.4.2
+```
+- Updated MoreInteriors
+- Updated EGyptMoon
+- Updated Infernis
+- Added Asteroid13
+- Added Gratar
+- Added Polarus
+- Added Atlantica
+```
 ### v7.4.1
 ```
 - Updated Ether
