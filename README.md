@@ -18,7 +18,7 @@
 | x753 | [More_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) | 1.4.1 |
 | x753 | [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) | 2.3.2 |
 | AlexCodesGames | [AdditionalContentFramework](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/) | 1.0.3 |
-| ShaosilGaming | [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) | 1.0.7 |
+| ShaosilGaming | [FlashlightFix](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/) | 1.1.0 |
 | AlexCodesGames | [AdditionalSuits](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/) | 2.0.0 |
 | Suskitech | [AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) | 1.4.4 |
 | tinyhoot | [ShipLobby](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/) | 1.0.2 |
@@ -44,7 +44,7 @@
 | happyfrosty | [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/) | 1.1.12 |
 | Owen3H | [IntroTweaks](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/) | 1.4.5 |
 | Renegades | [WalkieUse](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/) | 1.5.0 |
-| AllToasters | [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) | 2.3.0 |
+| AllToasters | [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) | 2.3.1 |
 | Blorb | [WeatherMultipliers](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/) | 1.1.0 |
 | sfDesat | [Orion](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/) | 1.3.0 |
 | ExioMadeThis | [Ahegao_Suit](https://thunderstore.io/c/lethal-company/p/ExioMadeThis/Ahegao_Suit/) | 1.0.0 |

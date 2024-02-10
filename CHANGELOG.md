@@ -1,3 +1,9 @@
+### v7.5.1
+```
+- Increased ScarletDevilMansion Spawn Weight
+- Updated FlashlightFix
+- Updated SpectateEnemies
+```
 ### v7.5.0
 ```
 - Updated MoreCompany
