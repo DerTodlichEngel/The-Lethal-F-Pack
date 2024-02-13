@@ -1,3 +1,34 @@
+### v7.6.0
+```
+- Updated MoreInteriors
+- Added Outpost 31
+- Added GlowStickSuits
+- Added Fashion Company
+- Added FrostyCosmetics
+- Added InsomniaxCosmetics
+- Added AbsasCosmetics
+- Added FrostySuits3
+```
+### v7.5.5
+```
+- Updated MoreHead
+- Updated ScoopysVarietyMod
+- Updated CSync
+- Updated Herobrine
+- Added NavMeshInCompany (dep)
+```
+### v7.5.4
+```
+- Updated ScarletDevilMansion
+```
+### v7.5.3
+```
+- Updated Peepers
+```
+### v7.5.2
+```
+- Updated LethalExpansion
+```
 ### v7.5.1
 ```
 - Increased ScarletDevilMansion Spawn Weight
