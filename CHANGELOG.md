@@ -1,3 +1,19 @@
+### v8.0.0
+```
+- Updated ScarletDevilMansion
+- Updated Peepers
+- Updated Herobrine
+- Updated AtlasAbyss
+- Updated DafisMegaMoonPack
+- Updated ImmortalSnail
+- Updated LethalLevelLoader
+- Updated Mimics
+- Updated LethalResonance
+- Updated LethalExpansion
+- Updated LEDefaultModules
+- Updated LethalSDK
+- Added SmoreCosmetics
+```
 ### v7.6.0
 ```
 - Updated MoreInteriors
