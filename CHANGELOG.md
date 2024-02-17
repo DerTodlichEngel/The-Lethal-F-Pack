@@ -1,3 +1,36 @@
+### v8.0.5
+```
+- Updated ImmortalSnail
+- Updated AccurateStaminaDisplay
+- Updated Herobrine
+- Updated IntroTweaks
+- Updated Mimics
+- Updated EGyptMoon
+- Updated NavMeshInCompany
+- Updated Ether
+- Updated Outpost31
+- Updated LethalExpansion
+```
+### v8.0.4
+```
+- Updated AtlasAbyss
+- Updated MoreInteriors
+- Updated LethalExpansion
+```
+### v8.0.3
+```
+- Updated Herobrine
+```
+### v8.0.2
+```
+- Added OdinSerializer (dep)
+- Added LethalNetworkAPI (dep)
+- Added LCOffice
+```
+### v8.0.1
+```
+- Updated MoreInteriors
+```
 ### v8.0.0
 ```
 - Updated ScarletDevilMansion
@@ -17,7 +50,7 @@
 ### v7.6.0
 ```
 - Updated MoreInteriors
-- Added Outpost 31
+- Added Outpost31
 - Added GlowStickSuits
 - Added Fashion Company
 - Added FrostyCosmetics
