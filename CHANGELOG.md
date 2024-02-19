@@ -1,3 +1,15 @@
+### v8.0.7
+```
+- Updated LethalExpansion CFG
+```
+### v8.0.6
+```
+- Updated LethalExpansion
+- Updated LethalSDK
+- Updated SmoreCosmetics
+- Updated ScarletDevilMansion
+- Updated RollingGiant
+```
 ### v8.0.5
 ```
 - Updated ImmortalSnail
