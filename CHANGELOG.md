@@ -1,3 +1,20 @@
+### 8.1.0
+```
+- Updated LCOffice
+- Updated LCMaxSounds
+- Updated TerminalApi
+- Updated Atlantica
+- Updated Etern
+- Updated Polarus
+- Updated Gratar
+- Updated Asteroid13
+- Updated Infernis
+- Updated Acidir
+- Added CosmocosLastKnownPosition
+- Added MonsterPlushies
+- Added loaforcsSoundAPI (softdep in prep for big LR update)
+- Added StarlancerAIFix (dep)
+```
 ### v8.0.7
 ```
 - Updated LethalExpansion CFG
