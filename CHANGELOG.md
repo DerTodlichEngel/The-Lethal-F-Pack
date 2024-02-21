@@ -1,3 +1,8 @@
+### v8.1.1
+```
+- Added Cosmocos
+- Updated LCOffice
+```
 ### 8.1.0
 ```
 - Updated LCOffice
