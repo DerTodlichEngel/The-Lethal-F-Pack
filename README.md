@@ -158,6 +158,7 @@
 | Magic_Wesley | [Polarus](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Polarus/) | 2.0.1 |
 | Magic_Wesley | [Atlantica](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Atlantica/) | 2.0.0 |
 | Magic_Wesley | [Cosmocos_Last_Known_Position](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Cosmocos_Last_Known_Position/) | 1.0.0 |
+| Magic_Wesley | [Cosmocos](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Cosmocos/) | 1.0.0 |
 | Kittenji | [Dont_Touch_Me](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/) | 1.2.1 |
 | itsmeowdev | [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/) | 1.0.0 |
 | bozzobrain | [BetterDoorWarning](https://thunderstore.io/c/lethal-company/p/bozzobrain/BetterDoorWarning/) | 1.0.0 |
@@ -174,4 +175,4 @@
 | Scintesto | [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) | 1.1.2 |
 | Lordfirespeed | [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/) | 2022.11.9 |
 | xilophor | [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/) | 2.1.6 |
-| Piggy | [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) | 1.0.10 |
+| Piggy | [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) | 1.0.11 |
