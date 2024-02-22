@@ -1,3 +1,9 @@
+### v8.1.3
+```
+- Updated Cosmocos
+- Updated LCOffice
+- Updated Gratar
+```
 ### v8.1.2
 ```
 - Updated CosmocosLastKnownPosition
