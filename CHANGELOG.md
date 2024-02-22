@@ -1,3 +1,7 @@
+### v8.1.4
+```
+- Updated ScarletDevilMansion CFG
+```
 ### v8.1.3
 ```
 - Updated Cosmocos
