@@ -40,10 +40,10 @@
 | FireNoobsta | [Ducks_Moons](https://thunderstore.io/c/lethal-company/p/FireNoobsta/Ducks_Moons/) | 1.1.3 |
 | no00ob | [LCSoundTool](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/) | 1.5.1 |
 | Clementinise | [CustomSounds](https://thunderstore.io/c/lethal-company/p/Clementinise/CustomSounds/) | 2.3.1 |
-| loaforc | [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) | 0.1.2 |
+| loaforc | [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) | 0.1.3 |
 | SlushyRH | [FreeeeeeMoooooons](https://thunderstore.io/c/lethal-company/p/SlushyRH/FreeeeeeMoooooons/) | 1.0.1 |
 | sunnobunno | [LandMineFartReverb](https://thunderstore.io/c/lethal-company/p/sunnobunno/LandMineFartReverb/) | 1.0.3 |
-| TwinDimensionalProductions | [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 1.0.6 |
+| TwinDimensionalProductions | [CoilHeadStare](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 1.0.8 |
 | Propain_Gang | [Dracula Flow The Official Saga](https://thunderstore.io/c/lethal-company/p/Propain_Gang/Dracula_Flow_The_Official_Saga/) | 1.0.0 |
 | Verity | [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) | 1.0.5 |
 | happyfrosty | [FrostySuits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/) | 1.1.12 |
@@ -135,7 +135,7 @@
 | EliteMasterEric | [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) | 1.6.0 |
 | Zaggy1024 | [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) | 1.2.1 |
 | Major_And_Skiz | [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/) | 2.5.0 |
-| LethalMatt | [Outpost31](https://thunderstore.io/c/lethal-company/p/LethalMatt/Outpost_31/) | 1.1.6 |
+| LethalMatt | [Outpost31](https://thunderstore.io/c/lethal-company/p/LethalMatt/Outpost_31/) | 1.1.8 |
 | Pooble | [LCBetterSaves](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/) | 1.7.3 |
 | Nyxchrono | [DoorBreach](https://thunderstore.io/c/lethal-company/p/Nyxchrono/DoorBreach/) | 1.1.0 |
 | Flof | [MemeSoundboard](https://thunderstore.io/c/lethal-company/p/Flof/MemeSoundboard/) | 1.1.2 |
@@ -157,8 +157,8 @@
 | Magic_Wesley | [Gratar](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Gratar/) | 2.0.1 |
 | Magic_Wesley | [Polarus](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Polarus/) | 2.0.1 |
 | Magic_Wesley | [Atlantica](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Atlantica/) | 2.0.0 |
-| Magic_Wesley | [Cosmocos_Last_Known_Position](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Cosmocos_Last_Known_Position/) | 1.0.0 |
-| Magic_Wesley | [Cosmocos](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Cosmocos/) | 1.0.0 |
+| Magic_Wesley | [Cosmocos_Last_Known_Position](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Cosmocos_Last_Known_Position/) | 1.0.2 |
+| Magic_Wesley | [Cosmocos](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Cosmocos/) | 1.0.1 |
 | Kittenji | [Dont_Touch_Me](https://thunderstore.io/c/lethal-company/p/Kittenji/Dont_Touch_Me/) | 1.2.1 |
 | itsmeowdev | [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/) | 1.0.0 |
 | bozzobrain | [BetterDoorWarning](https://thunderstore.io/c/lethal-company/p/bozzobrain/BetterDoorWarning/) | 1.0.0 |
@@ -170,9 +170,9 @@
 | Kittenji | [Herobrine](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/) | 1.2.10 |
 | SolidStone | [LethalMinecraftVillage](https://thunderstore.io/c/lethal-company/p/SolidStone/LethalMinecraftVillage/) | 1.0.5 |
 | x753 | [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/) | 0.9.6 |
-| Alice | [ScarletDevilMansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/) | 1.2.7 |
+| Alice | [ScarletDevilMansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/) | 1.2.8 |
 | Quixler | [DeadAndBored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/) | 1.2.0 |
 | Scintesto | [Monster_Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/) | 1.1.2 |
 | Lordfirespeed | [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/) | 2022.11.9 |
 | xilophor | [LethalNetworkAPI](https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/) | 2.1.6 |
-| Piggy | [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) | 1.0.11 |
+| Piggy | [LC_Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/) | 1.0.13 |
