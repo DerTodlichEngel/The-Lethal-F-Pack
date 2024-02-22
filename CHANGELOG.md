@@ -1,3 +1,13 @@
+### v8.1.2
+```
+- Updated CosmocosLastKnownPosition
+- Updated Cosmocos
+- Updated CoilHeadStare
+- Updated LCOffice
+- Updated Outpost31
+- Updated loaforcsSoundAPI
+- Updated ScarletDevilMansion
+```
 ### v8.1.1
 ```
 - Added Cosmocos
