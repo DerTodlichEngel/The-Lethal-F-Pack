@@ -1,3 +1,32 @@
+### v9.0.0
+```
+- Restructured Sounds/Now using CustomSounds and loaforcsSoundAPI simultaneously
+- Updated Lethal Resonance Sounds (big thanks to pixel for the format)
+- Updated LCOffice
+- Updated ScarletDevilMansion
+- Updated Ether
+- Updated StarlancerAIFix
+- Updated Cosmocos
+- Updated Atlantica
+- Updated Polarus
+- Updated Gratar
+- Updated Asteroid13
+- Updated Infernis
+- Updated Etern
+- Updated Acidir
+- Updated LethalAutocomplete
+- Updated Outpost31
+- Updated ImmortalSnail
+- Updated Diversity
+- Added LCCutscene (dep)
+- Added CustomPostProcessingAPI (dep)
+- Updated LethalExpansion
+- Updated SmoreCosmetics
+- Updated CoilHeadStare
+- Updated FairAI
+- Updated CSync
+- Updated FacilityMeltdown
+```
 ### v8.1.4
 ```
 - Updated ScarletDevilMansion CFG
